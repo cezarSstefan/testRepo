@@ -1,0 +1,51 @@
+{
+	"id": "f09e994b-f54e-47b8-8947-f20787986e1d",
+	"createdAt": "2023-10-05T08:14:16.892Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/cezarSstefan/testRepo"
+	},
+	"name": "Testing_Package #2243",
+	"description": null,
+	"ver": "23.10.5.815",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "4c2a6710-8a3a-4445-bc1c-43473ee8e779",
+			"application": "test_app",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "f09e994b-f54e-47b8-8947-f20787986e1d"
+			}
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
