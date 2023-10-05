@@ -45,6 +45,18 @@
 							],
 							"data": [
 								{
+									"fieldNo": "2d0ff82d-af2b-4beb-c6bd-9c347f473a1b",
+									"fieldName": "Text",
+									"fieldParent": "4",
+									"fieldType": "sap.m.Text",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [],
+									"data": []
+								},
+								{
 									"fieldNo": "5",
 									"fieldName": "oFooter",
 									"fieldParent": "4",
@@ -141,7 +153,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "23.10.5.915",
+	"ver": "23.10.5.920",
 	"application": "test_app",
 	"title": "",
 	"description": "",

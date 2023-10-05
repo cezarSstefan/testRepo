@@ -7,7 +7,7 @@
 	},
 	"name": "Testing_Package #2243",
 	"description": null,
-	"ver": "23.10.5.815",
+	"ver": "23.10.5.820",
 	"enableCICD": true,
 	"apps": [
 		{
